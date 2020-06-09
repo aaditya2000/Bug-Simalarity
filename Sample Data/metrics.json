@@ -1,0 +1,75 @@
+{
+    "files": {
+        "BXB.py": {
+            "block_positions": [],
+            "comments": 2,
+            "language": "Python",
+            "mccabe": 7,
+            "ratio_comment_to_code": 0.08,
+            "sloc": 25
+        },
+        "BXBXB.py": {
+            "block_positions": [],
+            "comments": 4,
+            "language": "Python",
+            "mccabe": 28,
+            "ratio_comment_to_code": 0.05,
+            "sloc": 76
+        },
+        "merge_table.py": {
+            "block_positions": [
+                {
+                    "end": 43,
+                    "name": "check",
+                    "start": 5,
+                    "type": "Function"
+                }
+            ],
+            "comments": 2,
+            "language": "Python",
+            "mccabe": 8,
+            "ratio_comment_to_code": 0.06,
+            "sloc": 34
+        },
+        "stam_corpse.py": {
+            "block_positions": [],
+            "comments": 0,
+            "language": "Python",
+            "mccabe": 6,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 22
+        },
+        "stam_let.py": {
+            "block_positions": [],
+            "comments": 0,
+            "language": "Python",
+            "mccabe": 6,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 27
+        },
+        "topic_find.py": {
+            "block_positions": [
+                {
+                    "end": 76,
+                    "name": "Sort_Tuple",
+                    "start": 8,
+                    "type": "Function"
+                }
+            ],
+            "comments": 4,
+            "language": "Python",
+            "mccabe": 19,
+            "ratio_comment_to_code": 0.06,
+            "sloc": 63
+        },
+        "word.py": {
+            "block_positions": [],
+            "comments": 2,
+            "language": "Python",
+            "mccabe": 10,
+            "ratio_comment_to_code": 0.05,
+            "sloc": 42
+        }
+    }
+}
+

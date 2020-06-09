@@ -1,0 +1,9 @@
+filename,sloc,comments,ratio_comment_to_code,mccabe,language
+BXB.py,25,2,0.08,7,Python
+BXBXB.py,76,4,0.05,28,Python
+merge_table.py,34,2,0.06,8,Python
+stam_corpse.py,22,0,0.0,6,Python
+stam_let.py,27,0,0.0,6,Python
+topic_find.py,63,4,0.06,19,Python
+word.py,42,2,0.05,10,Python
+
