@@ -1,0 +1,3 @@
+select issue_id, ( replace(coalesce(summary,''),'
+',' ') || ' ' || replace(coalesce(description,''),'
+',' ')) as combine from issue;
